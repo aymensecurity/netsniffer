@@ -1,8 +1,8 @@
 <center><img src="./banner.jpg"></center>
-<h2 align="center">NetSniffer</h2>
+<h1 align="center">NetSniffer</h1>
 <h3>NetSniffer: Your essential Linux tool for network reconnaissance and security auditing.</h3>
 
-#Features:
+<h2>Features:</h2>
 
  Scan Open Ports: Identify vulnerabilities and secure your network with pinpoint accuracy.
 
