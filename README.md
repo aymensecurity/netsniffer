@@ -1,5 +1,6 @@
 <center><img src="./banner.jpg"></center>
-# NetSniffer: Your essential Linux tool for network reconnaissance and security auditing.
+<h2 align="center">NetSniffer</h2>
+<h3>NetSniffer: Your essential Linux tool for network reconnaissance and security auditing.</h3>
 
 #Features:
 
