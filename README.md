@@ -4,7 +4,7 @@
 
 <h2>Features:</h2>
 
- Scan Open Ports: Identify vulnerabilities and secure your network with pinpoint accuracy.
+ Scan Network Open Ports:  
 
  Detect Live Hosts: Streamline network management and troubleshooting.
  
